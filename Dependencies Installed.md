@@ -1,5 +1,5 @@
 Install by the following command:
-pip install <module name> --upgrade
+pip install ** <module name> ** --upgrade
 
 List of dependencies/module installed:
 -  TA-Lib (Technical Analysis Library that contains multiple indicators to evaluate the market performance etc.)
