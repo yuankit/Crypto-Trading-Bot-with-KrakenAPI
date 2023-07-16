@@ -1,4 +1,9 @@
 # Crypto-Trading-Bot-with-KrakenAPI
+## Project summary ##
+*	Acquired real-time data via WebSocket API and sent transaction orders via REST API.
+* Constructed and fine-tuned custom indexes (uptrend, downtrend and reversal index) by employing existing financial indicators (RSI, SMA) and developing trend & candlestick pattern (38.2%, close above/below, engulfing) detector.
+
+## Project description ##
 Real-time financial data is obtained through Kraken WebSocket connection whereas the Interactions (e.g. Buy, sell, etc) are done through Kraken REST connection.
 
 ### Indicator ###
